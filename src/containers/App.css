@@ -1,0 +1,22 @@
+body {
+  background-color: #050539;
+  padding: 20px;
+}
+
+h1 {
+  color: #fff;
+}
+
+.robocard {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+hr {
+  margin: 40px auto;
+  width: 50%;
+}
