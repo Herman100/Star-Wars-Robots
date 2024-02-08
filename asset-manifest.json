@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Star-Wars-Robots/static/css/main.e9bc5a24.css",
+    "main.js": "/Star-Wars-Robots/static/js/main.94e2be44.js",
+    "static/js/592.5d4babaf.chunk.js": "/Star-Wars-Robots/static/js/592.5d4babaf.chunk.js",
+    "index.html": "/Star-Wars-Robots/index.html",
+    "main.e9bc5a24.css.map": "/Star-Wars-Robots/static/css/main.e9bc5a24.css.map",
+    "main.94e2be44.js.map": "/Star-Wars-Robots/static/js/main.94e2be44.js.map",
+    "592.5d4babaf.chunk.js.map": "/Star-Wars-Robots/static/js/592.5d4babaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9bc5a24.css",
+    "static/js/main.94e2be44.js"
+  ]
+}
